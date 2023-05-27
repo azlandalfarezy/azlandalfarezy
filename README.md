@@ -1,4 +1,4 @@
-<h1>Hi, I'm Azland ! <br/></h1>
+<h1>Hi, I'm Azland ! <br/><sub>Data Scientist | Electrical Engineer</sub></h1>
 
 <h2>👨‍💻 Data Analytic Projects</h2>
 

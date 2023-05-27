@@ -1,6 +1,6 @@
-<h1>Hi, I'm Azland ! <br/><sub>Data Scientist | Electrical Engineer</sub></h1>
+<h1>Hi, I'm Azland Alfarezy! <br/><p>Data Scientist</p></h1>
 
-<h2>👨‍💻 Data Analytic Projects</h2>
+<h2>💻 Data Analytic Projects</h2>
 
 - <b>Power BI Dashboard</b>
   - [Sales Perfromance 2017-2020](https://github.com/joshmadakor1/Sentinel-Lab)
@@ -10,7 +10,7 @@
 - <b>Machine Learning Model</b>
   - [Credit Risk Model](https://github.com/joshmadakor1/Sentinel-Lab)
 
-<h2> 🤳 Connect with me</h2>
+<h2> 🤳 Connect with Me!</h2>
 
 [<img align="left" alt="Azland Alfarezy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Azland Alfarezy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]

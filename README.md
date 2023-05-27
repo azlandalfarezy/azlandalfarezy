@@ -3,12 +3,12 @@
 <h2>💻 Data Analytic Projects</h2>
 
 - <b>Power BI Dashboard</b>
-  - [Sales Perfromance 2017-2020](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Sales Perfromance 2017-2020](https://github.com/azlandalfarezy/sales_performance_dashboard/tree/main)
   
 <h2>👨‍💻 Data Science Projects</h2>
 
 - <b>Machine Learning Model</b>
-  - [Credit Risk Model](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Credit Risk Model](https://github.com/azlandalfarezy/sales_performance_dashboard/tree/main)
 
 <h2> 🤳 Connect with Me!</h2>
 

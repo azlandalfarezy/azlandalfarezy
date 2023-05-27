@@ -3,7 +3,7 @@
 <h2>💻 Data Analytic Projects</h2>
 
 - <b>Power BI Dashboard</b>
-  - [Sales Perfromance 2017-2020](https://github.com/azlandalfarezy/sales_performance_dashboard/tree/main)
+  - [Sales Performance 2017-2020](https://github.com/azlandalfarezy/sales_performance_dashboard/tree/main)
   
 <h2>👨‍💻 Data Science Projects</h2>
 

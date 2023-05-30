@@ -8,7 +8,7 @@
 <h2>👨‍💻 Data Science Projects</h2>
 
 - <b>Machine Learning Model</b>
-  - [Credit Risk Model](https://github.com/azlandalfarezy/sales_performance_dashboard/tree/main)
+  - [Credit Risk Prediction Model](https://github.com/azlandalfarezy/credit_risk_prediction_model/tree/main)
 
 <h2> 🤳 Connect with Me!</h2>
 

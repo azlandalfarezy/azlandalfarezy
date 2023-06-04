@@ -5,7 +5,7 @@
 - <b>Power BI Dashboard</b>
   - [Data Scientist Annual Salaries](https://github.com/azlandalfarezy/data_scientist_salaries_dashboard)
   - [Video Game Sales](https://github.com/azlandalfarezy/video_game_sales_dashboard/tree/main)
-  - [Sales Performance 2017-2020](https://github.com/azlandalfarezy/sales_performance_dashboard/tree/main)
+  - [Sales Performance](https://github.com/azlandalfarezy/sales_performance_dashboard/tree/main)
 <h2>👨‍💻 Data Science Projects</h2>
 
 - <b>Machine Learning Model</b>

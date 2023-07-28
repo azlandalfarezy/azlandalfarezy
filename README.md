@@ -2,9 +2,9 @@
 
 <h2>💻 Data Analytic Projects</h2>
 
-- <b>Looker Dashboard</b>
+- <b>Looker Studio Dashboard</b>
   - [Life Expectancy in 193 Countries 2000-2015](https://github.com/azlandalfarezy/life_expectancy_dashboard)
-  - [IT Salary Survey in EU 2020](https://github.com/azlandalfarezy/life_expectancy_dashboard)
+  - [IT Salary Survey in EU 2020](https://github.com/azlandalfarezy/IT_Salary_Survey_in_EU)
 
 - <b>Power BI Dashboard</b>
   - [Data Scientist Annual Salaries](https://github.com/azlandalfarezy/data_scientist_salaries_dashboard)

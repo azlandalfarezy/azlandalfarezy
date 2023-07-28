@@ -2,15 +2,15 @@
 
 <h2>💻 Data Analytic Projects</h2>
 
+- <b>Looker Dashboard</b>
+  - [Life Expectancy in 193 Countries 2000-2015](https://github.com/azlandalfarezy/life_expectancy_dashboard)
+  - [IT Salary Survey in EU 2020](https://github.com/azlandalfarezy/life_expectancy_dashboard)
+
 - <b>Power BI Dashboard</b>
   - [Data Scientist Annual Salaries](https://github.com/azlandalfarezy/data_scientist_salaries_dashboard)
   - [Video Game Sales](https://github.com/azlandalfarezy/video_game_sales_dashboard/tree/main)
   - [Sales Performance](https://github.com/azlandalfarezy/sales_performance_dashboard/tree/main)
- 
-- <b>Looker Dashboard</b>
-  - [Life Expectancy in 193 Countries 2000-2015](https://github.com/azlandalfarezy/data_scientist_salaries_dashboard)
-  - [IT Salary Survey in EU 2020](https://github.com/azlandalfarezy/video_game_sales_dashboard/tree/main)
- 
+  
 <h2>👨‍💻 Data Science Projects</h2>
 
 - <b>Machine Learning Model</b>

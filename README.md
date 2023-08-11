@@ -1,4 +1,4 @@
-<h1>Hi, I'm Azland Alfarezy! <br/><p>`Data Analyst | Data Scientist`</p></h1>
+<h1>Hi, I'm Azland Alfarezy! <br/><p style="font-size: 20px">Data Analyst | Data Scientist</p></h1>
 
 <h2>💻 Data Analytic Projects</h2>
 

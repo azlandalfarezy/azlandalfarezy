@@ -1,5 +1,4 @@
-<h1>Hi, I'm Azland Alfarezy! <br/><p style="font-size: 20px">Data Analyst | Data Scientist</p></h1>
-
+<h1>Hi, I'm Azland Alfarezy!</h1>
 <h2>💻 Data Analytic Projects</h2>
 
 - <b>Looker Studio Dashboard</b>
@@ -26,7 +25,7 @@
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<h1>Hi, I'm Azland Alfarezy! <br/><small>Data Analyst | Data Scientist</small></h1>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
